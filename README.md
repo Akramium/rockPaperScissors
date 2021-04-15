@@ -11,7 +11,7 @@ These shapes are "rock" (a closed fist), "paper" (a flat hand), and "scissors" (
 </p>
 <p>
 A simultaneous, zero-sum game, it has only two possible outcomes: a draw, or a win for one player and a loss for the other.
-A player who decides to play rock will beat another player who has chosen scissors ("rock crushes scissors" or sometimes "blunts scissors"[4]), but will lose to one who has played paper ("paper covers rock"); a play of paper will lose to a play of scissors ("scissors cuts paper").
+A player who decides to play rock will beat another player who has chosen scissors ("rock crushes scissors" or sometimes "blunts scissors"), but will lose to one who has played paper ("paper covers rock"); a play of paper will lose to a play of scissors ("scissors cuts paper").
 </p>
 <p>
 If both players choose the same shape, the game is tied and is usually immediately replayed to break the tie. 
